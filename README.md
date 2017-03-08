@@ -3,4 +3,4 @@
 Hello
 First edition
 
-size 1000000
+SIZE 42
